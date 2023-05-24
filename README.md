@@ -8,7 +8,9 @@ A GIS short-course prepared for Fordham University (May 2023)
 
 | Date | Lectures | Lab | Data
 | --- | --- | --- | --- |
-| May 25 |  |  |  |
+| May 25 | Intro to GIS |  |  |
+         | GIS Basics |
+         | Projections |
 | May 26 |  |  |  |
 | May 27 |  |  |  |
 | May 28 |  |  |  |
