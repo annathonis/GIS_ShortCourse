@@ -8,7 +8,7 @@ A GIS short-course prepared for Fordham University (May 2023)
 
 | Date | Lectures | Lab | Data
 | --- | --- | --- | --- |
-| May 25 | Intro to GIS -- GIS Basics -- Projections | [QGIS Basics.pdf](https://github.com/annathonis/annathonis.github.io/files/11550617/QGIS.Basics.pdf) | [Bigfoot sightings.csv](https://github.com/annathonis/annathonis.github.io/files/11550622/Bigfoot.sightings.csv) |
+| May 25 | [Intro to GIS.pdf](https://github.com/annathonis/annathonis.github.io/files/11556818/Intro.to.GIS.pdf) -- [QGIS Basics.pdf](https://github.com/annathonis/annathonis.github.io/files/11556865/QGIS.Basics.pdf) -- [Projections.pdf](https://github.com/annathonis/annathonis.github.io/files/11556866/Projections.pdf) | [QGIS Basics.pdf](https://github.com/annathonis/annathonis.github.io/files/11550617/QGIS.Basics.pdf) | [Bigfoot sightings.csv](https://github.com/annathonis/annathonis.github.io/files/11550622/Bigfoot.sightings.csv) |
 | May 26 |  |  |  |
 | May 27 |  |  |  |
 | May 28 |  |  |  |
