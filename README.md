@@ -1,14 +1,17 @@
 # GIS Short Course
 A introductory GIS short course prepared for graduate students at Fordham University (May 2023) 
 
+
 ## Syllabus
-[2023 Syllabus](https://github.com/annathonis/GIS_ShortCourse/files/11560566/GIS.syllabus.2023.pdf)
+[2023 Syllabus](https://github.com/annathonis/GIS_ShortCourse/files/11560679/GIS.syllabus.2023.pdf)
 
 
 ## Independent Research Project
 Project proposals due via email by June 6 by 11:59 pm EST
-
 Final projects due via email by June 26 by 11:59 pm EST
+
+[Complete independent project description](https://github.com/annathonis/GIS_ShortCourse/files/11560795/Independent.Project.Description.pdf)
+
 
 ## Schedule
 
