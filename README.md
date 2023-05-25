@@ -1,4 +1,4 @@
-# GIS Short Course
+# Welcome to Principles of GIS!
 A introductory GIS short course prepared for graduate students at Fordham University (May 2023) 
 
 
