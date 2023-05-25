@@ -2,10 +2,7 @@
 A introductory GIS short course prepared for graduate students at Fordham University (May 2023) 
 
 ## Syllabus
-Please review the syllabus for information on meeting times/location, a class overview, tentative schedule, and information on how you will be evaluated for the course.
-
-[2023 Syllabus](https://github.com/annathonis/annathonis.github.io/files/11557089/GIS.syllabus.2023.pdf)
-
+[2023 Syllabus](https://github.com/annathonis/GIS_ShortCourse/files/11560566/GIS.syllabus.2023.pdf)
 
 
 ## Independent Research Project
