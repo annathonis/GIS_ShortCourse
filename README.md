@@ -1,5 +1,5 @@
 # GIS Short-Course
-A GIS short-course prepared for Fordham University (May 2023)
+A GIS short-course prepared for Fordham University (May 2023) 
 
 ## Syllabus
 Please review the syllabus for information on meeting times/location, a class overview, tentative schedule, and information on how you will be evaluated for the course.
