@@ -11,7 +11,8 @@ Project proposals are due by June 6 by 11:59 pm EST. Please submit them [here](h
 
 Final projects are due by June 26 by 11:59 pm EST. Please submit them [here](https://forms.gle/aF9MWHn36q5hJFHVA).
 
-[Complete independent project description](https://github.com/annathonis/GIS_ShortCourse/files/11583330/Independent.Project.Description.pdf)
+[Independent Project Description](https://github.com/annathonis/GIS_ShortCourse/files/11653301/Independent.Project.Description.pdf)
+
 
 
 ## Schedule
