@@ -3,7 +3,7 @@ A introductory GIS short course prepared for graduate students at Fordham Univer
 
 
 ## Syllabus
-[2025 Syllabus](GIS_ShortCourse/GIS syllabus 2025.pdf)
+[2025 Syllabus](GIS syllabus 2025.pdf)
 
 
 ## Independent Research Project
