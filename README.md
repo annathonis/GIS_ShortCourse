@@ -1,9 +1,9 @@
 # Welcome to Principles of GIS!
-A introductory GIS short course prepared for graduate students at Fordham University (May 2023) 
+A introductory GIS short course prepared for graduate students at Fordham University (May 2025) 
 
 
 ## Syllabus
-[2023 Syllabus](https://github.com/annathonis/GIS_ShortCourse/files/11560679/GIS.syllabus.2023.pdf)
+[2025 Syllabus](GIS_ShortCourse/GIS syllabus 2025.pdf)
 
 
 ## Independent Research Project
