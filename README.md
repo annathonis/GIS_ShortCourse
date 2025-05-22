@@ -7,9 +7,9 @@ A introductory GIS short course prepared for graduate students at Fordham Univer
 
 
 ## Independent Research Project
-Project proposals are due by June 6 by 11:59 pm EST. Please submit them [here](https://forms.gle/jjH1JN3rDDxZ3qAx9). 
+Project proposals are due by June 3 by 11:59 pm EST. 
 
-Final projects are due by June 26 by 11:59 pm EST. Please submit them [here](https://forms.gle/aF9MWHn36q5hJFHVA).
+Final projects are due by June 23 by 11:59 pm EST. 
 
 [Independent Project Description](https://github.com/annathonis/GIS_ShortCourse/files/11653301/Independent.Project.Description.pdf)
 
