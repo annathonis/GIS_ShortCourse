@@ -11,7 +11,7 @@ Project proposals are due by June 3 by 11:59 pm EST.
 
 Final projects are due by June 23 by 11:59 pm EST. 
 
-[Independent Project Description](https://github.com/user-attachments/files/20378882/Independent.Project.Description.2025.pdf)
+[Independent Project Description](https://github.com/annathonis/annathonis.github.io/files/20378882/Independent.Project.Description.2025.pdf)
 
 
 
