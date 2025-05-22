@@ -3,7 +3,7 @@ An introductory GIS short course prepared for graduate students at Fordham Unive
 
 
 ## Syllabus
-[2025 Syllabus](https://github.com/user-attachments/files/20378879/GIS.syllabus.2025.pdf)
+[2025 Syllabus](https://github.com/user-attachments/files/20378907/GIS.syllabus.2025.pdf)
 
 
 ## Independent Research Project
