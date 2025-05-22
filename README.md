@@ -23,7 +23,7 @@ Final projects are due by June 23 by 11:59 pm EST.
 | May 26 | Vector data \| Raster data | Projections \| Vectors \| Rasters | State Populations | Lab2 \| Lab3 \| Lab4|
 | May 27 | GPS \| Remote Sensing | GPS \| Remote Sensing|  | Lab5 \| Lab6|
 | May 28 | Georeferencing \| GIS in R | Spatial Analysis | Quad Map | Lab7|
-| May 29 | Make-up work \| Topic Review \| SDMs | Raster Calc \| Wallace |[MadaRasterCalc | Lab8 |
+| May 29 | Make-up work \| Topic Review \| SDMs | Raster Calc \| Wallace |MadaRasterCalc | Lab8 |
 
 
 
